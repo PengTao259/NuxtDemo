@@ -37,19 +37,7 @@
 			bannerData: {
 				type:Array,
 				required:true
-			},
-			newbannerData: {
-				type:Array,
-				required:true
-			},
-			olsbannerData: {
-				type:Array,
-				required:true
-			},
-			asddbannerData: {
-				type:Array,
-				required:true
-			},
+			}
 		},
 		data (){
 			return {
