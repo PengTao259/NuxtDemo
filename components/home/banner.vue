@@ -37,6 +37,10 @@
 			bannerData: {
 				type:Array,
 				required:true
+			},
+			newBannerData: {
+				type:Array,
+				required:true
 			}
 		},
 		data (){
